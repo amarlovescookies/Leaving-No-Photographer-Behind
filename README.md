@@ -7,3 +7,14 @@ In this project, we address a universal issue in taking group pictures: leaving 
 
 ### Final Results
 ![alt text](Result.PNG)
+
+### Setup
+The following directions are for setting up the project on Google Colab. Note there are several sections labeled [TODO]. There will be instructions on each [TODO] section. Be sure that the directories are appropriately named according to read images from the Images folder. The same applies to saving the images into the Results folder.
+
+1. Clone the project to your Google Drive. 
+2. Define Source and Target Image: Choose your source and target images from the Images folder. Do not mix and match between folders.
+3. Open main.ipynb using Google Colab.
+3. Mount your google drive account to the notebook.
+4. Define Source and Target Image: Choose your source and target images from the Images folder. Do not mix and match between folders.
+5. Compare with Ground Truth: If you have a ground truth image (real image or Photoshopped Image), please add it here. If not, please ignore this section. There is only one Ground Truth image in our Images file, and it is Images/Solid/groundtruth.jpeg.
+6. Save Output: Choose a name for your output file and save it to the Results folder.
